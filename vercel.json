@@ -1,0 +1,4 @@
+{
+  "framework": "tanstack-start",
+  "installCommand": "npm install --no-audit --no-fund"
+}
